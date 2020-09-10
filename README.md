@@ -1,1 +1,1 @@
-See the live app [https://three-state-counter.netlify.app/](here)
+See the live app [here](https://three-state-counter.netlify.app/)
